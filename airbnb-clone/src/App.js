@@ -1,10 +1,23 @@
 
 import './App.css';
+import Home from './Home';
 
 function App() {
   return (
     <div className="App">
-      <h1>air bnb</h1>
+      
+     <Home />
+      {/* Home */}
+         {/* Header */}
+
+         {/* Banner */}
+           {/* Search */}
+
+          {/* Footer */}
+
+      {/* Search Page */}
+        {/* ... */}
+
     </div>
   );
 }
