@@ -30,3 +30,20 @@
 .banner__info > h5 {
     margin-top: 15px;
 }
+
+.banner__search {
+    display: flex;
+    flex-direction: column;
+}
+
+.banner__searchButton {
+    background-color: #ff7779 !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color:white !important;
+}
+
+.banner__searchButton:hover { 
+    background-color: white !important;
+     color: #ff7779 !important;
+}
