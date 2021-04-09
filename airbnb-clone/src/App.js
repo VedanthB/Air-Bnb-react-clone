@@ -1,10 +1,25 @@
-
+import Footer from './Footer'
 import './App.css';
+import Header from './Header';
+import Home from './Home';
 
 function App() {
   return (
     <div className="App">
-      <h1>air bnb</h1>
+     <Header />
+     <Home />
+     <Footer />
+      {/* Home */}
+         {/* Header */}
+
+         {/* Banner */}
+           {/* Search */}
+
+          {/* Footer */}
+
+      {/* Search Page */}
+        {/* ... */}
+
     </div>
   );
 }
